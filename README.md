@@ -19,17 +19,17 @@ Then a thought pop up into my mind what if we download all the links in one csv 
 ### 5. Final Execution
        Now when you use the final csv file you will likely to come across certain exceptions so I wrote them on my code and then it worked like a charm.
        
- ####[Note : for people who prefers to be followed my automation bot will just follow them it won't send connection request to them]
+ #### [Note : for people who prefers to be followed my automation bot will just follow them it won't send connection request to them]
  
  If you want to understand my code in more detail way then please go through my medium article here :
  https://medium.com/@ektamishra335
  
- follow me on :
+ ## follow me on :
  
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-mishra-374614110/)
  
  [medium](https://medium.com/@ektamishra335)
  
- Interested to be a part of women techpreneurs or to meet awesome women in tech ?
+ ### Interested to be a part of women techpreneurs or to meet awesome women in tech ?
  
  [Click here](https://www.womentech.net/about/womentech-membership?join=NDA0MjE=)
